@@ -1,5 +1,5 @@
-📘 Project: Tweet Emotion Recognition using BiLSTM
-🔍 Objective
+## 📘 Project: Tweet Emotion Recognition using BiLSTM
+## 🔍 Objective
 The goal of this project is to classify tweets into emotional categories using a deep learning model. By analyzing the emotional tone behind each tweet, the system can identify whether the tweet expresses joy, sadness, anger, fear, love, or surprise.
 
 ## 📌 Overview
